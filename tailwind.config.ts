@@ -82,7 +82,22 @@ const config = {
       },
     },
   },
-  plugins: [require("tailwindcss-animate")],
+  plugins: [
+    require("tailwindcss-animate"),
+    function ({ addUtilities }: { addUtilities: (utilities: Record<string, Record<string, string>>) => void }) {
+    addUtilities({
+      '.animation-delay-1000': { 'animation-delay': '1000ms' },
+      '.animation-delay-2000': { 'animation-delay': '2000ms' },
+      '.animation-delay-[400ms]': { 'animation-delay': '400ms' },
+      '.animation-delay-[600ms]': { 'animation-delay': '600ms' },
+      '.animation-delay-[800ms]': { 'animation-delay': '800ms' },
+      '.animation-delay-[1000ms]': { 'animation-delay': '1000ms' },
+      '.animation-delay-[1200ms]': { 'animation-delay': '1200ms' },
+      '.animation-delay-[1400ms]': { 'animation-delay': '1400ms' },
+      '.animation-delay-[1600ms]': { 'animation-delay': '1600ms' },
+    })
+  },
+  ],
 } satisfies Config
 
 export default config
