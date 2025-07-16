@@ -184,7 +184,7 @@ NEXTAUTH_SECRET=your-production-secret
 - Create new admin sections in `components/admin/`
 - Extend database models in `models/`
 
-## Technologies Used
+### Technologies Used
 
 - **Frontend**: Next.js 14, React 18, TypeScript
 - **Styling**: Tailwind CSS, Radix UI
@@ -194,7 +194,7 @@ NEXTAUTH_SECRET=your-production-secret
 - **Icons**: Lucide React
 - **Animations**: CSS animations and Tailwind transitions
 
-## Contributing
+### Contributing
 
 1. Fork the repository
 2. Create a feature branch (`git checkout -b feature/amazing-feature`)
