@@ -4,7 +4,7 @@ A modern, responsive landing page with admin panel built with Next.js 14, MongoD
 
 ## Features
 
-### 🌟 Landing Page
+### Landing Page
 - **Animated Hero Section** with gradient backgrounds and floating elements
 - **Projects Showcase** with horizontal scrolling and auto-scroll functionality
 - **Client Testimonials** with beautiful card layouts and animations
@@ -13,7 +13,7 @@ A modern, responsive landing page with admin panel built with Next.js 14, MongoD
 - **Dark Mode Support** with theme toggle
 - **Fully Responsive** design for all devices
 
-### 🔧 Admin Panel
+###  Admin Panel
 - **Professional Dashboard** with gradient stat cards and quick actions
 - **TanStack Table Integration** with sorting, filtering, and pagination
 - **Image Cropping** functionality for all uploads
@@ -22,7 +22,7 @@ A modern, responsive landing page with admin panel built with Next.js 14, MongoD
 - **Real-time Statistics** and analytics
 - **Dark Mode Support** throughout admin interface
 
-### 🛠 Technical Features
+### Technical Features
 - **MongoDB Integration** with Mongoose ODM
 - **Server-Side Rendering** with Next.js 14
 - **TypeScript** for type safety
@@ -213,9 +213,9 @@ For support, email support@techcorp.com or create an issue in the repository.
 
 This is the complete, fully functional landing page application with all the requested features:
 
-## ✨ **Complete Feature Set:**
+##  **Complete Feature Set:**
 
-### 🎨 **Enhanced UI/UX:**
+### **Enhanced UI/UX:**
 - Beautiful gradient dashboard cards with linear colors
 - Professional TanStack tables with profile images in first column
 - Image cropping functionality for all uploads
@@ -224,7 +224,7 @@ This is the complete, fully functional landing page application with all the req
 - Dark mode support throughout the application
 - Attractive favicon with gradient SVG
 
-### 🔧 **Admin Panel:**
+### **Admin Panel:**
 - Complete dashboard with real-time statistics
 - Professional data tables for all entities
 - Search, sort, and pagination functionality
@@ -232,7 +232,7 @@ This is the complete, fully functional landing page application with all the req
 - Export functionality for contacts and newsletter
 - Quick actions that properly navigate to tabs
 
-### 📱 **Landing Page:**
+### **Landing Page:**
 - Animated hero section with blob animations
 - Horizontal scrolling projects and clients sections
 - Enhanced contact form with success dialogs
@@ -240,7 +240,7 @@ This is the complete, fully functional landing page application with all the req
 - Fully responsive design
 - SEO optimized with proper meta tags
 
-### 🛠 **Technical Features:**
+###**Technical Features:**
 - MongoDB integration with proper models
 - Complete API routes for all operations
 - TypeScript throughout the application
